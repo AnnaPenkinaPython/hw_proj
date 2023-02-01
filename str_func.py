@@ -3,6 +3,6 @@ def upper_word(word):
     return word
 
 def upper_each_word(word):
-    """function converts each word's first letters to up register"""
+    """"description"""
     word = str(word.title())
     return word
